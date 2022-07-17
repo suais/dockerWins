@@ -1,4 +1,4 @@
-# Docker安装aria2 #
+# **Docker安装aria2** #
 ## 服务简介 ##
 本安装用到2个镜像容器，分别是Aria2和Ariang，Aria2提供下载服务，而Ariang提供了一个web端服务的ui管理界面。
 
@@ -37,10 +37,10 @@ Aria2是一款开源下载工具，可帮助简化不同设备和服务器之间
      -v /docker_volume/name/downloads:/downloads \
      p3terx/aria2-pro \
 
-`参数说明`
+#### 参数说明 ####
 
-- -e RPC_SECRET=password:此环境变量为ariang需要填写的链接密钥，可自行更改
-- -e RPC_PORT=6800:此环境变量为ariang需要填写的链接端口，需要与宿主机暴露的端口一致
+- `-e RPC_SECRET=password`:此环境变量为ariang需要填写的链接密钥，可自行更改
+- `-e RPC_PORT=6800`:此环境变量为ariang需要填写的链接端口，需要与宿主机暴露的端口一致
 - -v 挂在目录需根据实际需要进行更改，如果经常下载一些大文件，请将downloads目录挂载到较大空间，或者挂载至远程下载盘上
 
 运行Ariang容器，在CMD(Windows)或Terminal(Linux、Mac)输入以下命令：
@@ -53,4 +53,4 @@ Aria2是一款开源下载工具，可帮助简化不同设备和服务器之间
     p3terx/ariang
 
 ## 常见说明 ##
-运行成功后，在常用的浏览器中访问：localhost:6880，进入Ariang配置页面，Ariang设置页面，点击Ariang设置，输入RPC相关信息，地址填写为宿主机IP地址，RPC密钥填写为创建Aria2-pro容器时填入的RPC_SECRET。
+运行成功后，在常用的浏览器中访问：`localhost:6880`，进入Ariang配置页面，Ariang设置页面，点击`Ariang设置`，输入RPC相关信息，地址填写为宿主机IP地址，RPC密钥填写为创建`Aria2-pro`容器时填入的`RPC_SECRET`。
