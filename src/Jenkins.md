@@ -1,6 +1,8 @@
 # Docker安装jenkins #
 ## 服务简介 ##
 Jenkins是一个独立的开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能。前身是Hudson是一个可扩展的持续集成引擎。可用于自动化各种任务，如构建，测试和部署软件。Jenkins可以通过本机系统包Docker安装，甚至可以通过安装Java Runtime Environment的任何机器独立运行。
+
+[jenkins Github](https://github.com/jenkinsci/jenkins)
 ## 准备镜像 ##
     docker pull jenkins/jenkins
 ## 运行容器 ##
@@ -17,4 +19,5 @@ Jenkins是一个独立的开源软件项目，是基于Java开发的一种持续
 管理员的初始密码在 Jenkins的工作目录,使用以下命名查看：
     
     cat /docker_volume/var/jenkins/secrets/initialAdminPassword
+- `访问地址`:localhost:8080
 

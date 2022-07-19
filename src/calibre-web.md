@@ -4,7 +4,7 @@ Calibre电子书管理解决方案，本地版使用了很多年，发现可以�
 
 Calibre-web就是calibre的web版，它提供了用户友好的对外网页展示的形式，可以在网上展示，管理，浏览自己的书籍，让书跟着自己走。
 
-[calibre-web github](https://github.com/janeczku/calibre-web)
+[calibre-web Github](https://github.com/janeczku/calibre-web)
 
 ## 准备镜像 ##
     docker pull technosoft2000/calibre-web
