@@ -3,7 +3,7 @@
 
 Apache Guacamole（鳄梨酱）是一个基于HTML5 Web应用程序，可以随时通过浏览器连接已经配置好的机器，它支持标准协议，例如VNC、RDP和SSH。
 
-[guacamole github](https://github.com/bitwarden/server)
+[guacamole Github](https://github.com/bitwarden/server)
 ## 准备镜像 ##
 第一个镜像
 
@@ -46,3 +46,5 @@ Apache Guacamole（鳄梨酱）是一个基于HTML5 Web应用程序，可以随�
 
 将生成的initdb.sql文件在MySQL中执行，生成表结构
 运行成功后，通过浏览器访问：localhost:8080/guacamole
+
+- `访问地址`:localhost:8080

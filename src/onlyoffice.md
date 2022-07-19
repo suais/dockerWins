@@ -1,6 +1,9 @@
 # Docker安装onlyoffice #
 ## 服务简介 ##
 ONLYOFFICE是将Word 、Excel、PPT 3大办公套件搬到了云端，只需要一个浏览器即可以在线使用Offic 的各种功能，主要用于团队协作，另外，ONLYOFFICE可以集成到NextCloud中。
+
+[onlyoffice GitHub](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
+
 ## 准备镜像 ##
     docker pull onlyoffice/documentserver
 ## 运行容器 ##
@@ -13,3 +16,5 @@ ONLYOFFICE是将Word 、Excel、PPT 3大办公套件搬到了云端，只需要�
     --name onlyoffice 
     --restart="always" onlyoffice/documentserver
 ## 常见说明 ##
+- `访问地址`:localhost:80
+- `其他注意事项`:集成在nextcloud中需要配置SSL，否则无法连接
