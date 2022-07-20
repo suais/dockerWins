@@ -1,6 +1,14 @@
 # Docker安装redis #
 ## 服务简介 ##
+
+<img src="./../images/redis.jpg" width = "420" alt="Github" align=center />
+
+* * *
+
+
 redis是一个开源的、内存型的、支持多种数据结构的存储系统，常用来做缓存、数据库、消息代理，除此之外，它还支持数据持久化存储，支持集群化的协同方式。
+
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
 
 [redis GitHub](https://github.com/redis/redis)
 

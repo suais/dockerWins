@@ -1,7 +1,14 @@
 # Docker安装pgadmin4 #
 
 ## 服务简介 ##
+
+<img src="./../images/pgadmin.png" width = "420" alt="Github" align=center />
+
+* * *
+
 pgAdmin4 是开源数据库 PostgreSQL 的图形管理工具，是桌面版图形管理工具pgAdmin3 的重写，遵循 PostgreSQL协议 是开源、免费、可商用的。pgAdmin4 是python开发的web应用程序，既可以部署为web模式通过浏览器访问，也可以部署为桌面模式独立运行。
+
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
 
 [pgadmin4 Git](https://github.com/postgres/pgadmin4)
 

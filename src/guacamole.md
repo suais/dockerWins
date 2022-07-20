@@ -1,7 +1,15 @@
 # Docker安装guacamole #
 ## 服务简介 ##
 
+ <img src="./../images/guacamole.png" width = "420" alt="Github" align=center />
+
+* * *
+
+
 Apache Guacamole（鳄梨酱）是一个基于HTML5 Web应用程序，可以随时通过浏览器连接已经配置好的机器，它支持标准协议，例如VNC、RDP和SSH。
+
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
+
 
 [guacamole Github](https://github.com/bitwarden/server)
 ## 准备镜像 ##

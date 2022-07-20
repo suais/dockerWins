@@ -1,6 +1,13 @@
 # Docker安装思源笔记 #
 ## 服务简介 ##
+
+<img src="./../images/siyuan.svg" width = "420" alt="Github" align=center />
+
+* * *
+
 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。类似于Notion。
+
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
 
 [ siyuan Github](https://github.com/siyuan-note/siyuan)
 

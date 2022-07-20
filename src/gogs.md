@@ -1,9 +1,15 @@
 # Docker安装gogs #
 ## 服务简介 ##
+
+ <img src="./../images/gogos.jpg" width = "420" alt="Github" align=center />
+
+* * *
+
 Gogs 是一款极易搭建的自助 Git 服务，打造一个以最简便的方式搭建简单、稳定和可扩展的自助 Git 服务。使用 Go 语言开发使得 Gogs 能够通过独立的二进制分发，并且支持 Go 语言支持的 所有平台，包括 Linux、macOS、Windows 和基于 ARM 的操作系统。
 
-[gogs Github](https://github.com/gogs/gogs)
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
 
+[gogs Github](https://github.com/gogs/gogs)
 
 ## 准备镜像 ##
     docker pull pull gogs/gogs

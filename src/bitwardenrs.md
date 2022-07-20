@@ -1,6 +1,13 @@
 # Docker安装bitwardenrs #
 ## 服务简介 ##
+
+ <img src="./../images/R-C.png" width = "420" alt="Github" align=center />
+
+* * *
+
 一款开源免费的密码的管理器，作为密码管理软件，Bitwarden可以集中存储，加密，生成我们在各个网站的用户名和密码并在对应的网站自动填写。
+
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
 
 [bitwardenrs Github](https://github.com/bitwarden/server)
 ## 准备镜像 ##

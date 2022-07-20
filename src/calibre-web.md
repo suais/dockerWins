@@ -1,8 +1,14 @@
 # Docker安装calibre-web #
 ## 服务简介 ##
-Calibre电子书管理解决方案，本地版使用了很多年，发现可以突破本地服务的局限，为自己的各种终端提供电子书服务。
+ <img src="./../images/calibre-web.png" width = "420" alt="Github" align=center />
+
+* * *
+Calibre是电子书管理解决方案，本地版使用了很多年，发现可以突破本地服务的局限，为自己的各种终端提供电子书服务。
 
 Calibre-web就是calibre的web版，它提供了用户友好的对外网页展示的形式，可以在网上展示，管理，浏览自己的书籍，让书跟着自己走。
+
+
+ <img src="https://github.com/favicon.ico" width = "20" alt="Github" align=center />
 
 [calibre-web Github](https://github.com/janeczku/calibre-web)
 
