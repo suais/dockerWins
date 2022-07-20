@@ -1,10 +1,15 @@
 # Docker安装mrdoc #
 ## 服务简介 ##
+
+
+
 MrDoc(觅思文档)是基于Python开发的在线文档系统。
 
 MrDoc 适合作为个人和中小型团队的私有云文档、云笔记和知识管理工具，致力于成为优秀的私有化在线文档部署方案。
 
 你可以简单粗暴地将 MrDoc 视为「可私有部署的语雀」和「可在线编辑文档的GitBook。
+
+ <img src="https://gitee.com/favicon.ico" width = "20" alt="Github" align=center />
 
 [mrdoc Gitee](https://gitee.com/zmister/MrDoc)
 ## 准备镜像 ##
