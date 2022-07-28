@@ -1,4 +1,4 @@
-# Docker安装gogs #
+# Docker安装Gogs #
 ## 服务简介 ##
 
  <img src="./../images/gogos.jpg" width = "420" alt="Github" align=center />

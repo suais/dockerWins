@@ -1,4 +1,4 @@
-# Docker安装jenkins #
+# Docker安装Jenkins #
 ## 服务简介 ##
 
  <img src="./../images/jenkins.png" width = "420" alt="Github" align=center />

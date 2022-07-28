@@ -1,4 +1,4 @@
-# Docker安装postgresql #
+# Docker安装Postgresql #
 ## 服务简介 ##
 
 <img src="./../images/postgresql.png" width = "420" alt="Github" align=center />

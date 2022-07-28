@@ -1,4 +1,4 @@
-# Docker安装owncloud #
+# Docker安装Owncloud #
 ## 服务简介 ##
 
 <img src="./../images/owncloud.png" width = "420" alt="Github" align=center />

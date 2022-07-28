@@ -1,4 +1,4 @@
-# Docker安装guacamole #
+# Docker安装Guacamole #
 ## 服务简介 ##
 
  <img src="./../images/guacamole.png" width = "420" alt="Github" align=center />

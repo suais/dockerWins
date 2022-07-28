@@ -1,4 +1,4 @@
-# Docker安装gitlab #
+# Docker安装Gitlab #
 
  <img src="./../images/gitlab.png" width = "420" alt="Github" align=center />
 

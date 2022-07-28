@@ -1,4 +1,4 @@
-# Docker安装omniDB #
+# Docker安装OmniDB #
 ## 服务简介 ##
 
 <img src="./../images/omnidb.png" width = "420" alt="Github" align=center />

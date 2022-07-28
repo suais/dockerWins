@@ -1,4 +1,4 @@
-# Docker安装redis #
+# Docker安装Redis #
 ## 服务简介 ##
 
 <img src="./../images/redis.jpg" width = "420" alt="Github" align=center />

@@ -1,4 +1,4 @@
-# Docker安装prometheus #
+# Docker安装Prometheus #
 ## 服务简介 ##
 
 <img src="./../images/prometheus.png" width = "420" alt="Github" align=center />

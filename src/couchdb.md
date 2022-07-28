@@ -1,4 +1,4 @@
-# **Docker安装couchdb** #
+# **Docker安装Couchdb** #
 ## 服务简介 ##
 
  <img src="./../images/couchdb.jpg" width = "420" alt="Github" align=center />

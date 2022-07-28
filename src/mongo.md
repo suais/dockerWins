@@ -1,4 +1,4 @@
-# Docker安装mongo #
+# Docker安装Mongo #
 ## 服务简介 ##
 
  <img src="./../images/mongodb.jpg" width = "420" alt="Github" align=center />
