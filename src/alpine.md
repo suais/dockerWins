@@ -15,5 +15,7 @@ Alpine以其小巧、简单在docker容器中得到了广泛的应用。但是Al
 
 [ Github ](https://github.com/alpinejs/alpine)
 ## 准备镜像 ##
+    docker pull alpine
 ## 运行容器 ##
+    docker run -dit --name alpine alpine
 #### 参数说明 ####
