@@ -1,4 +1,4 @@
-# **Docker安装cassandra** #
+# **Docker安装Cassandra** #
 ## 服务简介 ##
 
  <img src="./../images/cassandra.jpg" width = "420" alt="Github" align=center />

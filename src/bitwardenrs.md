@@ -1,4 +1,4 @@
-# Docker安装bitwardenrs #
+# Docker安装Bitwardenrs #
 ## 服务简介 ##
 
  <img src="./../images/R-C.png" width = "420" alt="Github" align=center />
